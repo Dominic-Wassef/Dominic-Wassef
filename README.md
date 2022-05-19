@@ -1,4 +1,4 @@
-### Web and iOS Developer Experienced in building full-stack applications
+### Web Developer Experienced in building full-stack applications
 
 🔶 Computer Science Alum from the University of Florida with years of start-up experience in building applications. Strong understanding of Asynchronous JavaScript, HTTP/JSON/AJAX, React + Redux + React Hooks, Node.js, Express.js, RESTful API, PostgreSQL, Authentication & Authorization, Cloud Infrastructure (Google Cloud, Microsoft Azure, AWS) and Cybersecurity.
 
