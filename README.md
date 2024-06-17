@@ -20,9 +20,9 @@ Join me on Linkedin, where I share insights:
 
 ### Cloud Tools:
 
-| Docker | K8s | Helm | Terraform | Ansible | Pulumi |
+| AWS | Docker | K8s | Helm | Terraform | Ansible |
 |----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="kubernetes" alt="kubernetes" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" title="helm" alt="helm" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform" alt="terraform" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="ansible" alt="Ansible" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pulumi/pulumi-original.svg" title="pulumi" alt="Pulumi" width="55" height="55"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" alt="Aws" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="kubernetes" alt="kubernetes" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" title="helm" alt="helm" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform" alt="terraform" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="ansible" alt="Ansible" width="55" height="55"/>|
 
 
 
@@ -39,15 +39,6 @@ Join me on Linkedin, where I share insights:
 | MongoDB | Redis | DynamoDB | PostgreSQL | MySQL | MariaDB |
 |----------|----------|----------|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="redis" alt="redis" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/dynamodb/dynamodb-original.svg" title="dynamodb" alt="dynamodb" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" title="mariadb" alt="Mariadb" width="55" height="55"/>|
-
-
-
-### Big data:
-
-| AWS | Hadoop | Spark | Kafka | Airflow | Cassandra |
-|----------|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" alt="Aws" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="hadoop" alt="Hadoop" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="apachespark" alt="Apachespark" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="apachekafka" alt="Apachekafka" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="apacheairflow" alt="Apacheairflow" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cassandra/cassandra-original.svg" title="cassandra" alt="Cassandra" width="55" height="55"/> |
-
 
 </div>
 
