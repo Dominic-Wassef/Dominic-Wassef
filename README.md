@@ -28,9 +28,9 @@ Join me on Linkedin, where I share insights:
 
 ### Monitoring and Logging:
 
-| Prometheus | Grafana | Splunk | Elasticsearch | Logstash | Kibana |
+| InfluxDB | Prometheus | Grafana | Elasticsearch | Logstash | Kibana |
 |----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/splunk/splunk-original-wordmark.svg" title="Splunk" alt="Splunk" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch" alt="Elasticsearch" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/logstash/logstash-original.svg" title="Logstash" alt="Logstash" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" title="Kibana" alt="Kibana" width="55" height="55"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original.svg" title="influx" alt="Influx" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch" alt="Elasticsearch" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/logstash/logstash-original.svg" title="Logstash" alt="Logstash" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" title="Kibana" alt="Kibana" width="55" height="55"/>|
 
 
 
