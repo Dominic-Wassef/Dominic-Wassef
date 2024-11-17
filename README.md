@@ -6,8 +6,6 @@ Join me on Linkedin, where I share insights:
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominic-wassef/)
 
-### Algorithms [LeetCode](https://leetcode.com/DominicWassef/)
-
 ## Languages and Tools
 <div>
 
@@ -58,10 +56,6 @@ Join me on Linkedin, where I share insights:
 </p>
 
 
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dominic-Wassef&style=for-the-badge&color=orange" alt=""/>
-</div>
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
