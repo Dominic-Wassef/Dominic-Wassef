@@ -44,19 +44,5 @@ Join me on Linkedin, where I share insights:
 
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Dominic-Wassef&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
-
-
----
-
-
-<p align="center">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dominic-Wassef&layout=compact&exclude_repo=application_ghostly&hide=makefile,c%2B%2B&theme=vision-friendly-dark">
-</p>
-
-
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
