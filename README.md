@@ -1,5 +1,6 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dominic-Wassef&title=Stars,Commits,Repositories,MultipleLang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="center">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dominic-Wassef&layout=compact&exclude_repo=application_ghostly&hide=makefile,c%2B%2B&theme=vision-friendly-dark">
+</p>
 
 ### Social media: 📡
 Join me on Linkedin, where I share insights:
@@ -39,10 +40,3 @@ Join me on Linkedin, where I share insights:
 |<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="redis" alt="redis" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/dynamodb/dynamodb-original.svg" title="dynamodb" alt="dynamodb" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" title="mariadb" alt="Mariadb" width="55" height="55"/>|
 
 </div>
-
----
-
-
-<p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dominic-Wassef&layout=compact&exclude_repo=application_ghostly&hide=makefile,c%2B%2B&theme=vision-friendly-dark">
-</p>
