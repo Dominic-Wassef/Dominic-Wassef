@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dominic-Wassef&layout=compact&exclude_repo=application_ghostly&hide=makefile,c%2B%2B&theme=vision-friendly-dark">
-</p>
-
 ### Social media: 📡
 Join me on Linkedin, where I share insights:
 
